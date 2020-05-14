@@ -5,7 +5,8 @@ description: A SpigotMC plugin deisgned to punish players when they log out duri
 api-version: 1.15
 author: AdamW78
 website: https://www.spigotmc.org/resources/combatlogevo-1-15-2-stop-players-from-quitting-in-combat.65957/
-softdepend: Citizens
+softdepend: 
+   - Citizens
 commands:
     cle:
         description: Provides the version of the plugin
