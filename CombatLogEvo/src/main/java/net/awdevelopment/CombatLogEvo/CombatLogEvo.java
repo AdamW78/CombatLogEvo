@@ -14,7 +14,7 @@ public class CombatLogEvo extends JavaPlugin {
     
     public CombatLogEvo() {
         commands = new ArrayList<String>();
-        version = 1.01;
+        version = 1.02;
     }
     @Override
     public void onEnable() {
